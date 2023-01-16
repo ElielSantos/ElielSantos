@@ -5,9 +5,9 @@
 <p>I'm a systems analysis and development student at UNINTER  
  </p>
  
-|     University       |              Course               | conclusão |
-|----------------------|-----------------------------------|-----------|      
-|       Uninter        |  Analysis and systems development |    2024   |
+|     University       |              Course               | conclusion |
+|----------------------|-----------------------------------|------------|      
+|       Uninter        |  Analysis and systems development |      2024  |
 
 <br>
 
