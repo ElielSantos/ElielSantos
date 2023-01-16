@@ -4,6 +4,12 @@
 
 <p>I'm a systems analysis and development student at UNINTER  
  </p>
+ 
+|     University       |              Course               | conclusão |
+|----------------------|-----------------------------------|-----------|      
+|       Uninter        |  Analysis and systems development |    2024   |
+
+<br>
 
  HTML | CSS | JavaScript | Python | <br>
  Learn: |Learning Javascript and React |  
