@@ -2,9 +2,7 @@
 
 ### <img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="200"><br><br> A little more about me...  
 
-<p>I'm a student of systems analysis and development
- </p>
- 
+  
 |     University       |              Course               | 
 |----------------------|-----------------------------------|    
 |       Uninter        |  Analysis and systems development |    
