@@ -11,8 +11,8 @@
 <br>
 
  HTML | CSS | JavaScript | Python | <br>
- Learn: |Learning Javascript and React |  
- GitHub: |Contributing to projects out there |
+ Learn: | Learning Javascript and React |  
+ GitHub: | Contributing to projects out there |
    
   
   
