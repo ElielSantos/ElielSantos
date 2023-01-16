@@ -1,6 +1,6 @@
 ### </Hello world!>
 
-### <img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="300"><br><br> A little more about me...  
+### <img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="200"><br><br> A little more about me...  
 
 <p>I'm a systems analysis and development student at UNINTER  
  </p>
