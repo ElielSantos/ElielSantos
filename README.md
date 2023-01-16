@@ -2,10 +2,12 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/35500688?s=400&u=2cbf26ccfdff862af31b657a3cfa11f21e1575d8&v=4" width="300"><br><br> A little more about me...  
 
- HTML | CSS | JavaScript | Python
- work: [🕸️ working with python ]<br>
- Learn: [🌴Learning Javascript and ReactJs]  
- hobbie: [😎 Contributing to projects out there]
+<p>I'm a systems analysis and development student at UNINTER  
+ </p>
+
+ HTML | CSS | JavaScript | Python | <br>
+ Learn: |🌴Learning Javascript and React |  
+ hobbie: |Contributing to projects out there |
    
   
   
