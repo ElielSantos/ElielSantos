@@ -17,5 +17,5 @@ Main Programming Languages
 <p align="left">
  
 <a href="https://discord.gg/vZqZuvm2" target="blank"><img align="center" src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="" height="30" width="120"/></a>
-<a href="https://www.youtube.com/@snickpine/featured" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png" alt="" height="30" width="120"/></a>
+<a href="https://www.youtube.com/@snickpine/featured" target="blank"><img align="center" src="https://mundoconectado.com.br/uploads/chamadas/youtube-update-veja-novidades.jpg" alt="" height="30" width="100"/></a>
 </p>
