@@ -13,9 +13,9 @@ Main Programming Languages
   <img align="center" alt="Python" src="https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" /> 
 </div><br> 
 
- <h3 align="left">Connect with me:</h3>
+ <h1 align="left">contac:</h1>
 <p align="left">
-<a href="https://discord.gg/vZqZuvm2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+<a href="https://discord.gg/vZqZuvm2" target="blank"><img align="center" src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="" height="30" width="40"/></a>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
