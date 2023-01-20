@@ -20,3 +20,4 @@
 <a href="https://www.youtube.com/@snickpine/featured" target="blank"><img align="center" src="https://mundoconectado.com.br/uploads/chamadas/youtube-update-veja-novidades.jpg" alt="" height="28" width="80"/></a>
 </p>
 fg
+gjk
