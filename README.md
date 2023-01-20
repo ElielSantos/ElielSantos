@@ -19,3 +19,4 @@
 <a href="https://discord.gg/vZqZuvm2" target="blank"><img align="center" src="https://tm.ibxk.com.br/2021/05/03/03151149985265.jpg?ims=704x264" alt="" height="28" width="80"/></a>
 <a href="https://www.youtube.com/@snickpine/featured" target="blank"><img align="center" src="https://mundoconectado.com.br/uploads/chamadas/youtube-update-veja-novidades.jpg" alt="" height="28" width="80"/></a>
 </p>
+fg
