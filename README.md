@@ -11,9 +11,7 @@ public class AboutMe {
     final String[] INTERESTS = { "Coding ", "soccer ", "city pop japanese", "bosssa nova",};
     final String CONTACT = Instagram "@cipreste1";
   }
-}
-
-``` 
+}``` 
  
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
