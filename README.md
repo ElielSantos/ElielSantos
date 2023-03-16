@@ -2,7 +2,6 @@
 
 <img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="200"><br><br>
 
-```
 
 public class AboutMe {
   public static void main(String[] args) {
@@ -13,7 +12,8 @@ public class AboutMe {
     final String CONTACT = Instagram "@cipreste1";
   }
 }
-``` 
+```
+ 
  
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
