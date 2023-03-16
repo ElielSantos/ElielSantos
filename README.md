@@ -1,4 +1,4 @@
-<h4>!|Muchas gracias afición, esto es para vosotros|</h4>
+<h4>!|This application requires a java runtime environment 1.8.0|</h4>
 
 <img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="200"><br><br>
  
