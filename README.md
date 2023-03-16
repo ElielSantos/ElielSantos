@@ -29,7 +29,7 @@ public class AboutMe {
 </div><br> 
 
 
-<br>!|Contato!
+<br>!<h4>|Contato!</h4>
  
 <div> 
  <a href="https://www.instagram.com/cipreste1/" target="_blank">
