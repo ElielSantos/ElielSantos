@@ -11,8 +11,8 @@ public class AboutMe {
   public static void main(String[] args) {
     final String ME = "Eliel Santos 🙋‍♂️";
     final String[] LANGUAGES = {"Java", "Python", "SQL", "HTML", "CSS"};
-    final String[] FRAMEWORKS = {"Angular", "Ionic"};
-    final String[] INTERESTS = { "Coding 💻", "Running 🏃", "Cars 🚗", "Motorbikes 🏍️",};
+    final String[] FRAMEWORKS = {"Spring",};
+    final String[] INTERESTS = { "Coding 💻", "soccer 🏃", "Cars 🚗", "Motorbikes 🏍️",};
     final String CONTACT = Instagram "@cipreste1";
   }
 }
