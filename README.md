@@ -1,6 +1,6 @@
 <h4>!|This application requires a java runtime environment 1.8.0|</h4>
 
-<img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="200"><br><br>
+<img src="https://media.licdn.com/dms/image/D4D16AQG24qJd-bdqgQ/profile-displaybackgroundimage-shrink_350_1400/0/1678934172557?e=1684368000&v=beta&t=H7MIsvKn3qMIHvB_p7Bj1bEfYl86CK4jfl81Ru5f6lo" width="200"><br><br>
 
 ```java
 
