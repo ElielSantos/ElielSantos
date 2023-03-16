@@ -1,12 +1,8 @@
 <h4>!|This application requires a java runtime environment 1.8.0|</h4>
 
 <img src="https://i.pinimg.com/280x280_RS/5a/f4/7b/5af47b95efe259de6340e2e8d75c7b08.jpg" width="200"><br><br>
- 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
-<h4>!|Main Programming Languages|</h4> 
-
-  ```java
+```java
 public class AboutMe {
   public static void main(String[] args) {
     final String ME = "Eliel Santos 🙋‍♂️";
@@ -17,7 +13,13 @@ public class AboutMe {
   }
 }
 
-```
+``` 
+ 
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
+
+<h4>!|Main Programming Languages|</h4> 
+
  
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
