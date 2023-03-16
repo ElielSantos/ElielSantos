@@ -35,7 +35,7 @@ public class AboutMe {
  <a href="https://www.instagram.com/cipreste1/" target="_blank">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
- <li><a href="mailto:youraddress@url.com">Email Us</a></li>
+ <a href="elielpilotof16@gmail.com">Email br</a>
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <a href="https://www.linkedin.com/in/eliel-santos-26b445243/" target="_blank">
