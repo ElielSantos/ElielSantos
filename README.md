@@ -9,7 +9,7 @@ public class AboutMe {
     final String ME = "Eliel Santos";
     final String[] LANGUAGES = {"Java", "Python", "MySQL"};
     final String[] FRAMEWORKS = {"Spring",};
-    final String[] INTERESTS = { "Coding " && "Bosssa nova",};
+    final String[] INTERESTS = { "Coding ", && ,"Bosssa nova",};
     final String CONTACT = Instagram "@cipreste1";
   }
 }
