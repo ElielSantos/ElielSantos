@@ -1,5 +1,6 @@
 <h4>!|This application requires a java runtime environment 1.8.0|</h4>
 
+<img src="https://i.pinimg.com/originals/04/fa/d9/04fad9cc37fc5ef697f100ec8b01a50a.jpg" width="1200"/><br><br>
 
 ```java
 
