@@ -7,11 +7,9 @@
 public class AboutMe {
   public static void main(String[] args) {
     final String ME = "Eliel Santos";
-    final String[] LANGUAGES = {"Java", "Python", "MySQL"};
-    final String[] FRAMEWORKS = {"Spring",};
-    final String[] INTERESTS = { "Coding ","Vinho",&& "Bossa nova",};
-    final String CONTACT = Instagram "@cipreste1";
-  }
+    final String[] LANGUAGES = {"Java", "Python"};
+    final String[] FRAMEWORKS = {"Spring, NetBeans",};
+   }
 }
 ```
  
