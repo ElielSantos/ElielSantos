@@ -13,8 +13,7 @@ public class AboutMe {
 }
 ```
 
-![snake gif](https://github.com/ElielSantos/ElielSantos/blob/output/github-contribution-grid-snake.svg)
-
+https://github.com/{{ElielSantos}}/{{ElielSantos}}
 
 <h4>!|Main Programming Languages|</h4> 
  
