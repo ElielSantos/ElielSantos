@@ -8,9 +8,9 @@
  
 <div align="center">
   <a href="https://github.com/ElielSantos">
-</div>
- [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma,firebase,css,html&theme=light)](https://skills.thijs.gg)
-</div>    
+
+ [![My Skills](https://skills.thijs.gg/icons?i=css,html,javascript,java,kotlin,nodejs,firebase&theme=light)](https://skills.thijs.gg)
+
   
  
   
