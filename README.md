@@ -2,11 +2,10 @@
 
 <img src="https://i.pinimg.com/originals/04/fa/d9/04fad9cc37fc5ef697f100ec8b01a50a.jpg" width="1200"/><br><br>
 
-## Hi, I'm Eliel, programmer and researcher!
+## Hi, I'm Eliel, solving problems with code!
 
 - Developing applications (web and mobile)
-- Inovation and Computer Vision Researcher
-
+ 
 <div align="center">
   <a href="https://github.com/ElielSantos">
 </div>
