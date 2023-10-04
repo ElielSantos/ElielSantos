@@ -9,6 +9,7 @@
   <a href="https://github.com/ElielSantos">
 
  [![My Skills](https://skills.thijs.gg/icons?i=css,html,javascript,py,java,kotlin,nodejs,git,firebase&theme=light)](https://skills.thijs.gg)
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
   
  
