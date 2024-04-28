@@ -6,6 +6,7 @@
  
 <div align="center">
   <a href="https://github.com/ElielSantos">
+![GIF](https://clipart-library.com/images/pT7rLe5jc.gif)
 
   [![My Skills](https://skills.thijs.gg/icons?i=css,html,bootstrap,javascript,py,java,php,nodejs,mysql,git&theme=light)](https://skills.thijs.gg)
 
