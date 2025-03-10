@@ -1,7 +1,7 @@
 # Eliel Santos - Dev
 
 
-### Alguns Projetos
+### Alguns Projetos - Some Projects
 
 - 🏗️ [Jogo Construção](https://construction11.vercel.app/)
 - 🌳 [Sumpf](https://sumpf.neocities.org)
